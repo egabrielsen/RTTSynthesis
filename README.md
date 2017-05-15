@@ -3,4 +3,5 @@ Quantum Computing Research on creating optimal reversible truth tables for rever
 
 ## Code
 All code is done in python jupyter notebooks. 
+Clone Repo then:
 Run <code>jupyter notebook</code>
